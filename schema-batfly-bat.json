@@ -1,0 +1,22 @@
+{ "columns" : [ {
+        "name" : "Laboulbeniales species",
+        "titles" : "Laboulbeniales species",
+        "datatype" : "string"
+      }, {
+        "name" : "localityName",
+        "titles" : "Country",
+        "datatype" : "string"
+      }, {
+        "name" : "souceTaxonName",
+        "titles" : "Host species",
+        "datatype" : "string"
+      }, {
+        "name" : "targetTaxonName",
+        "titles" : "Bat host",
+        "datatype" : "string"
+      }, {
+        "name" : "referenceCitation",
+        "titles" : "Reference(s)",
+        "datatype" : "string"
+      } ]
+}
