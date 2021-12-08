@@ -8,8 +8,7 @@ The following precedure was followed to prepare the supplemental data for indexi
 
 1. download https://www.mdpi.com/2309-608X/6/4/361/s1 to ```jof-06-00361-s001.zip```
 2. extract ```Table S3 All Laboulbeniales bat fly associations thus far.xlsx``` from ```jof-06-00361-s001.zip```
-3. remove lines with decorative text like ```EASTERN HEMISPHERE``` and ```Table S3. Summary of all known Laboulbeniales associated with bat flies so far
-```
+3. remove lines with decorative text like ```EASTERN HEMISPHERE``` and ```Table S3. Summary of all known Laboulbeniales associated with bat flies so far```
 4. make repeated associations explicit by duplicating association information 
 
 for instance:
