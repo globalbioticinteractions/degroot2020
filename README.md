@@ -17,10 +17,7 @@ for instance:
  Laboulbeniales species | Country | Host species | Bat host | Reference(s)
  --- | --- | --- | --- | ---
 Arthrorhynchus acrandros |  Italy | Phthiridium biarticulatum [as Nycteribia (Celepries) biarticulata] | Chiroptera gen. & sp. indet. | Merola A. Interessante ritrovamento di labulbeniologia cavernicola: Arthrorhynchus acrandros n. sp. (con considerazioni sul gen. Arthrorhynchus). Bol Soc Nat Napoli. 1952;60:1-30.
- |  | | | Balazuc J. Notes sur les Laboulbéniales. III. Rectifications, synonymies et mises au point (suite). Bull. Mens. Soc. Linn. Soc. Bot. Lyon. 1971;40:211-216.
-
-Arthrorhynchus acrandros 	Italy	Phthiridium biarticulatum [as Nycteribia (Celepries) biarticulata]	Chiroptera gen. & sp. indet.	Merola A. Interessante ritrovamento di labulbeniologia cavernicola: Arthrorhynchus acrandros n. sp. (con considerazioni sul gen. Arthrorhynchus). Bol Soc Nat Napoli. 1952;60:1-30.
-				Balazuc J. Notes sur les Laboulbéniales. III. Rectifications, synonymies et mises au point (suite). Bull. Mens. Soc. Linn. Soc. Bot. Lyon. 1971;40:211-216.
+ |  | | | | Balazuc J. Notes sur les Laboulbéniales. III. Rectifications, synonymies et mises au point (suite). Bull. Mens. Soc. Linn. Soc. Bot. Lyon. 1971;40:211-216.
 
 was filled in to be:
 
