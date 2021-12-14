@@ -10,8 +10,8 @@
       "dcterms:bibliographicCitation" : "de Groot, Michiel D., Iris Dumolein, Thomas Hiller, Attila D. Sándor, Tamara Szentiványi, Menno Schilthuizen, M. C. Aime, Annemieke Verbeken, and Danny Haelewaters. 2020. \"On the Fly: Tritrophic Associations of Bats, Bat Flies, and Fungi\" Journal of Fungi 6, no. 4: 361. https://doi.org/10.3390/jof6040361",
       "delimiter" : "\t",
       "headerRowCount" : 1,
-      "interactionTypeName": "parasiteOf",
-      "interactionTypeId" : "http://purl.obolibrary.org/obo/RO_0002444",
+      "interactionTypeName": "hyperparasiteOf",
+      "interactionTypeId" : "http://purl.obolibrary.org/obo/RO_0002553",
       "null" : [ "" ],
       "tableSchema" : "schema-laboulbeniales-batfly.json"
     },
@@ -25,17 +25,6 @@
       "interactionTypeId" : "http://purl.obolibrary.org/obo/RO_0002444",
       "null" : [ "" ],
       "tableSchema" : "schema-batfly-bat.json"
-    },
-    {
-      "url" : "laboulbeniales_batfly_associations.tsv",
-      "doi" : "10.3390/jof6040361",
-      "dcterms:bibliographicCitation" : "de Groot, Michiel D., Iris Dumolein, Thomas Hiller, Attila D. Sándor, Tamara Szentiványi, Menno Schilthuizen, M. C. Aime, Annemieke Verbeken, and Danny Haelewaters. 2020. \"On the Fly: Tritrophic Associations of Bats, Bat Flies, and Fungi\" Journal of Fungi 6, no. 4: 361. https://doi.org/10.3390/jof6040361",
-      "delimiter" : "\t",
-      "headerRowCount" : 1,
-      "interactionTypeName": "hyperparasiteOf",
-      "interactionTypeId" : "http://purl.obolibrary.org/obo/RO_0002553",
-      "null" : [ "" ],
-      "tableSchema" : "schema-laboulbeniales-bat.json"
     }
   ]
 }
